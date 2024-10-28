@@ -14,8 +14,12 @@ I have also taken introductory courses of **Javascript** and **Kotlin**: <br>
 
 ## Environments
 
-**AWS** ecosystem is familiar: <br>
+**AWS** ecosystem was part of my school studies: <br>
 ![aws](https://github.com/markuslahde/resume/blob/main/AWS_s.png)
 
-I have practiced **Azure Databricks**: <br>
+I wanted to see what Snowflake is like: <br>
+![Snowflake](https://github.com/markuslahde/resume/blob/main/Snowflake_s.png)
+
+Currently I'm learning **Azure Databricks**: <br>
 ![Databricks](https://github.com/markuslahde/resume/blob/main/Databricks.png)
+
