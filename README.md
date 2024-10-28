@@ -14,8 +14,8 @@ I have also taken introductory courses of **Javascript** and **Kotlin**: <br>
 
 ## Environments
 
-**AWS** ecosystem is familiar:
+**AWS** ecosystem is familiar: <br>
 ![aws](https://github.com/markuslahde/resume/blob/main/AWS_s.png)
 
-I have practiced **Azure Databricks**:
+I have practiced **Azure Databricks**: <br>
 ![Databricks](https://github.com/markuslahde/resume/blob/main/Databricks.png)
