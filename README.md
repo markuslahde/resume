@@ -44,3 +44,4 @@ Currently I'm learning **Azure Databricks**: <br>
 
 ## Generative AI
 
+[Local LLM for enhanced Google search](https://github.com/markuslahde/LLM_enhanced_Google_search)
