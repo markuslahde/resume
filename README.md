@@ -3,7 +3,7 @@
 ## Languages
 
 My main language is **Python**. <br>
-Check my Python-package for an example:<br>
+You can check my Python-package here:<br>
 [pop-up-ide](https://github.com/markuslahde/pop-up-ide)
 
 I have also used **SQL**, mostly in context of databases (*MariaDB*, *SQLite*, *SQLAlchemy*) and data ingestion (*Spark*). <br>
