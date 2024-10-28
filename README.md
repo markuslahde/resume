@@ -40,7 +40,7 @@ Currently I'm learning **Azure Databricks**: <br>
 
 ### Data Exploration and Visualization
 
-[Exploratory Data Analysis with PySpark]()
+[Exploratory Data Analysis with PySpark](https://github.com/markuslahde/resume/blob/main/PySpark_FinalProject_HousingData_MarkusL%C3%A4hde.ipynb)
 
 ## Generative AI
 
