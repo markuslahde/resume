@@ -1,5 +1,13 @@
 # Resume
 
+- [Languages](#languages)
+- [Environments](#environments)
+- [Data-analytics](#data-analytics)
+  - [Data Ingestion](#data-ingestion)
+  - [Data Cleaning](#data-cleaning)
+  - [Data Exploration and Visualization](#data-exploration-and-visualization)
+- [Generative AI](#generative-ai)
+
 ## Languages
 
 My main language is **Python**. <br>
@@ -22,4 +30,15 @@ I wanted to see what Snowflake is like: <br>
 
 Currently I'm learning **Azure Databricks**: <br>
 ![Databricks](https://github.com/markuslahde/resume/blob/main/Databricks.png)
+
+
+## Data-analytics
+
+### Data Ingestion
+
+### Data Cleaning
+
+### Data Exploration and Visualization
+
+
 
