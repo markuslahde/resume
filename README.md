@@ -40,5 +40,5 @@ Currently I'm learning **Azure Databricks**: <br>
 
 ### Data Exploration and Visualization
 
-
+## Generative AI
 
