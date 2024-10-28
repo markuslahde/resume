@@ -15,4 +15,4 @@ I have also taken introductory courses of **Javascript** and **Kotlin**:<br>
 ## Environments
 
 As part of school I have gotten familiar with AWS:
-![aws](https://github.com/markuslahde/resume/blob/main/AWS.png)
+![aws](https://github.com/markuslahde/resume/blob/main/AWS_s.png)
