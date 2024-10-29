@@ -48,7 +48,7 @@ Currently I'm learning **Azure Databricks** in *Udemy*: <br>
 
 As part of my studies I have...
 
-[Medical Image Classification with CNN](https://github.com/markuslahde/brain_mri_alzheimers_disease_classification)
+[Medical Image Classification with CNN](https://github.com/markuslahde/Knee_Osteoarthritis_Classification)
 
 ## Generative AI
 
