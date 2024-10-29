@@ -48,8 +48,8 @@ Here is an example of a simple A/B test on binary data: <br>
 [Simple A/B-test for binary data with contingency table](https://github.com/markuslahde/resume/blob/main/ABtest_with_contingency_table_with_synthetic_data.ipynb)
 
 I have also practiced Dashboard building with PowerBI: <br>
-[eCommerce Dashboard](https://github.com/markuslahde/resume/blob/main/PowerBI_Dashboard_s.png)
-[Sales Analysis](https://github.com/markuslahde/resume/blob/main/PowerBI_SalesAnalysis_s.png)
+![eCommerce Dashboard](https://github.com/markuslahde/resume/blob/main/PowerBI_Dashboard_s.png)
+![Sales Analysis](https://github.com/markuslahde/resume/blob/main/PowerBI_SalesAnalysis_s.png)
 
 ## Machine Learning
 
