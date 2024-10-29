@@ -78,7 +78,7 @@ Here is an example of local *LLM* use scenario: <br>
 In addition to AI related topics, I have scratched the surface of *service design*, *knowledge management* and *future studies*. <br>
 
 Of these, the most tangible result is a group effort made for [Hublet](https://gethublet.com/fi/). <br>
-In this work we used *service design* methods to explore use cases for **Hublet** for occupational therepists in [Satasairaala](https://satakunnanhyvinvointialue.fi/): <br>
+In this work we used *service design* methods to explore *occupational therapy*-use cases for **Hublet** in [Satasairaala](https://satakunnanhyvinvointialue.fi/): <br>
 [Hublet presentation](https://github.com/markuslahde/resume/blob/main/Hublet_presentation.pdf)
 
 Here is a copy of my current study records of finished courses: <br>
