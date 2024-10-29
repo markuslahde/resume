@@ -49,6 +49,7 @@ Here is an example of a simple A/B test on binary data: <br>
 
 I have also practiced Dashboard building with PowerBI: <br>
 ![eCommerce Dashboard](https://github.com/markuslahde/resume/blob/main/PowerBI_Dashboard_s.png)
+<br>
 ![Sales Analysis](https://github.com/markuslahde/resume/blob/main/PowerBI_SalesAnalysis_s.png)
 
 ## Machine Learning
