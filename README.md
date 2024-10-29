@@ -36,13 +36,9 @@ Currently I'm learning **Azure Databricks** in [Udemy](https://www.udemy.com/): 
 
 I have practiced data analysis pipeline building starting from data ingestion (*CSV*, *JSON*, *APIs*) <br>
 to transformation (*Spark Schemas*) and cleaning (*pandas*) <br>
-[PySpark](https://github.com/markuslahde/resume/blob/main/PySpark_FinalProject_HousingData_MarkusL%C3%A4hde.ipynb)
 to exploration and visualization (*matplotlib/seaborn*, *PowerBI*). <br>
 ![kaggle](https://github.com/markuslahde/resume/blob/main/DataVisualization_kaggle_s.png)
 ![PowerBI](https://github.com/markuslahde/resume/blob/main/PowerBI_s.png)
-
-I have used datasets from for example in [kaggle](https://www.kaggle.com/) and [Tilastokeskus](https://stat.fi/til/aiheet.html): <br>
-[Tilastokeskus](https://github.com/markuslahde/resume/blob/main/Satakunta_v%C3%A4est%C3%B6rakenne_rakennushankkeet_s.png)
 
 Here is an example of Exploratory Data Analysis on Housing Price dataset: <br>
 [Exploratory Data Analysis of Housing Prices Dataset](https://github.com/markuslahde/resume/blob/main/Housing_Prices_EDA.pdf)
