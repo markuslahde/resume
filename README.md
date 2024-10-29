@@ -79,7 +79,7 @@ Of these, the most tangible result is a group effort made for [Hublet](https://g
 In this work we used *service design* methods to explore *occupational therapy*-use cases for **Hublet** in [Satasairaala](https://satakunnanhyvinvointialue.fi/): <br>
 [Hublet presentation](https://github.com/markuslahde/resume/blob/main/Hublet_presentation.pdf)
 
-Here is a copy of my current study records of finished courses: <br>
+Here is a record of my finished courses: <br>
 [Studyinfo](https://github.com/markuslahde/resume/blob/main/Studyinfo_20241029.pdf)
 
 
