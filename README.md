@@ -67,7 +67,7 @@ Currently I am studying medical image classification: <br>
 Of course *LLMs* and *Generative AI* has been part of my studies as well. <br>
 I have gotten familiar with prompting methods (*Few Shot*, *Chain of Thought* etc.) with **LangChain** and have practiced using **OpenAI API** for customer service applications.
 
-Here is an example of local *LLM* use scenario: <br>
+Here is an example of *Local LLM*-use scenario: <br>
 [Local LLM for enhanced Google search](https://github.com/markuslahde/LLM_enhanced_Google_search)
 
 
