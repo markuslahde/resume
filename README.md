@@ -5,7 +5,7 @@
 - [Data-analytics](#data-analytics)
 - [Machine Learning](#machine-learning)
 - [Generative AI](#generative-ai)
-- [Service Design and Study Record](#service-design-and-study-record)
+- [Other Studies and Study Record](#service-design-and-study-record)
 - [What's Next?](#whats-next)
 
 ## Languages
@@ -49,20 +49,25 @@ Currently I'm learning **Azure Databricks** in *Udemy*: <br>
 
 As part of my studies I have learned about *neural networks*, *natural language processing*, *image classification* etc. <br>
 
+
 Currently I am studying medical image classification: <br>
 [Medical Image Classification with CNN](https://github.com/markuslahde/Knee_Osteoarthritis_Classification)
 
 ## Generative AI
 
+Of course *LLMs* and generative AI has been 
 [Local LLM for enhanced Google search](https://github.com/markuslahde/LLM_enhanced_Google_search)
 
 
-## Service Design and Study Record
+## Other Studies and Study Record
 
+In addition to CS related topics, I have scratched the surface of *service design*, *knowledge management* and *future studies*. <br>
 
+Of these, the most tangible result is a group effort made for [Hublet](https://gethublet.com/fi/). <br>
+Here we used *service design* methods to explore *Hublet* use cases for occupational therepists in Satasairaala: <br>
 [Hublet](https://github.com/markuslahde/resume/blob/main/Hublet_presentation.pdf)
 
-
+Here is a copy of my current study records: <br>
 [Studyinfo](https://github.com/markuslahde/resume/blob/main/Studyinfo_20241029.pdf)
 
 
