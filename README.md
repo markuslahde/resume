@@ -28,7 +28,7 @@ I have also taken introductory courses of **Javascript** and **Kotlin**: <br>
 I wanted to see what Snowflake is like: <br>
 ![Snowflake](https://github.com/markuslahde/resume/blob/main/Snowflake_s.png)
 
-Currently I'm learning **Azure Databricks**: <br>
+Currently I'm learning **Azure Databricks** in *Udemy*: <br>
 ![Databricks](https://github.com/markuslahde/resume/blob/main/Databricks.png)
 
 
