@@ -6,6 +6,7 @@
   - [Data Ingestion](#data-ingestion)
   - [Data Cleaning](#data-cleaning)
   - [Data Exploration and Visualization](#data-exploration-and-visualization)
+- [Machine Learning](#machine-learning)
 - [Generative AI](#generative-ai)
 
 ## Languages
@@ -41,6 +42,10 @@ Currently I'm learning **Azure Databricks** in *Udemy*: <br>
 ### Data Exploration and Visualization
 
 [Exploratory Data Analysis with PySpark](https://github.com/markuslahde/resume/blob/main/PySpark_FinalProject_HousingData_MarkusL%C3%A4hde.ipynb)
+
+
+## Machine Learning
+
 
 ## Generative AI
 
