@@ -34,7 +34,8 @@ Currently I'm learning **Azure Databricks** in [Udemy](https://www.udemy.com/): 
 
 ## Data-analysis
 
-I have practiced data analysis pipeline building starting from data ingestion (*CSV*, *JSON*, *APIs*) <br>
+I have practiced data analysis pipeline building <br>
+from data ingestion (*CSV*, *JSON*, *APIs*) <br>
 to transformation (*Spark Schemas*) and cleaning (*pandas*) <br>
 to exploration and visualization (*matplotlib/seaborn*, *PowerBI*). <br>
 ![kaggle](https://github.com/markuslahde/resume/blob/main/DataVisualization_kaggle_s.png)
