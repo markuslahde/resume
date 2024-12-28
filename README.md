@@ -59,8 +59,9 @@ As part of my studies I have learned about *neural networks*, *natural language 
 I have taken part in [kaggle](https://www.kaggle.com/)-competitions: <br>
 ![kaggle competition](https://github.com/markuslahde/resume/blob/main/kaggle_HousingPrices.png)
 
-Currently I am studying medical image classification: <br>
-[Medical Image Classification with CNN](https://github.com/markuslahde/Knee_Osteoarthritis_Classification)
+In 2024 I have been studying medical image classification: <br>
+[Alzheimer's disease classification from MRI's with ResNet](https://github.com/markuslahde/brain_mri_alzheimers_disease_classification)
+
 
 ## Generative AI
 
