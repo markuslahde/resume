@@ -41,6 +41,9 @@ to exploration and visualization (*matplotlib/seaborn*, *PowerBI*). <br>
 ![kaggle](https://github.com/markuslahde/resume/blob/main/DataVisualization_kaggle_s.png)
 ![PowerBI](https://github.com/markuslahde/resume/blob/main/PowerBI_s.png)
 
+Here is a gym member customer analysis I made:
+[Gym Member Customer Analysis](https://github.com/markuslahde/GymMembers_CustomerAnalysis)
+
 Here is an example of Exploratory Data Analysis on Housing Price dataset: <br>
 [Exploratory Data Analysis of Housing Prices Dataset](https://github.com/markuslahde/resume/blob/main/Housing_Prices_EDA.pdf)
 
