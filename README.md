@@ -84,7 +84,7 @@ In this work we used *service design* methods to explore *occupational therapy*-
 [Hublet presentation](https://github.com/markuslahde/resume/blob/main/Hublet_presentation.pdf)
 
 Here is a record of my finished courses: <br>
-[Studyinfo](https://github.com/markuslahde/resume/blob/main/Studyinfo_20241029.pdf)
+https://opintopolku.fi/koski/opinnot/13944dc56bdd4d309f8ff5ecac0c6ac1
 
 
 ## What's next?
